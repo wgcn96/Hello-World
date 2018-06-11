@@ -3,4 +3,5 @@
 git支持ssh和http协议，ssh协议更快速
 还记得上载文件怎么用吗？
 
-创建dev分支,function.py
+创建dev分支
+delete function.py
