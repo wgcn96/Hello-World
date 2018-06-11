@@ -6,3 +6,4 @@ git支持ssh和http协议，ssh协议更快速
 创建dev分支
 delete function.py
 尝试使用stash功能
+远端使用dev分支
